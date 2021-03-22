@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /
+Sitemap: https://romainmarcazzan.github.io/RomainMarcazzan_4_15012021/sitemap.xml
